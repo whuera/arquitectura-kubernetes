@@ -1,9 +1,21 @@
-<mxfile modified="2020-09-02T20:11:13.390Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="UCsfNFkzYcaSfIazusRn" version="13.6.6" type="github">
+<mxfile modified="2020-09-02T20:16:46.824Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="tB9s--Z8PFTJ7CAAM55l" version="13.6.6" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="1278" dy="1383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2021" dy="1198" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sHoAig3_zP_vlDSk0JIB-181" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;gradientColor=none;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="-780" width="180" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="sHoAig3_zP_vlDSk0JIB-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeColor=#FF0000;" edge="1" parent="1" source="sHoAig3_zP_vlDSk0JIB-178" target="sHoAig3_zP_vlDSk0JIB-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-130" y="-575" />
+              <mxPoint x="-130" y="-810" />
+              <mxPoint x="391" y="-810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="sHoAig3_zP_vlDSk0JIB-144" value="AWS Cloud / BigData / otra área" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="574.5" y="-280" width="425" height="410" as="geometry" />
         </mxCell>
@@ -440,6 +452,20 @@
         </mxCell>
         <mxCell id="sHoAig3_zP_vlDSk0JIB-173" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D86613;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.d2_instance;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="845.5" y="-210.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sHoAig3_zP_vlDSk0JIB-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeColor=#FF0000;" edge="1" parent="1" source="sHoAig3_zP_vlDSk0JIB-177" target="sHoAig3_zP_vlDSk0JIB-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-172" y="-800" />
+              <mxPoint x="391" y="-800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sHoAig3_zP_vlDSk0JIB-177" value="MegaPos" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.server_farm;fillColor=#2072B8;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="-722.5" width="56" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="sHoAig3_zP_vlDSk0JIB-178" value="Pedidos" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.server_farm;fillColor=#2072B8;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="-599.5" width="56" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
