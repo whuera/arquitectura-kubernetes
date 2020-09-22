@@ -1,4 +1,4 @@
-<mxfile modified="2020-09-22T18:49:14.150Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="U5PyPtK0G-X6-1Epd-KK" version="13.7.1" type="github" pages="2">
+<mxfile modified="2020-09-22T18:52:50.158Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="0llqgQyON-inhp-5beAb" version="13.7.1" type="github" pages="2">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Kbs-Megaprofer">
     <mxGraphModel dx="2527" dy="1661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -907,6 +907,12 @@
         </mxCell>
         <mxCell id="hQeGzuZTRge54YIYbzUu-160" value="(COD: Ambientes-Fase1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="NjdkGcA6Qp470e94GDZ9-1">
           <mxGeometry x="9.5" y="-820" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hQeGzuZTRge54YIYbzUu-161" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#FF0000;opacity=50;" vertex="1" parent="NjdkGcA6Qp470e94GDZ9-1">
+          <mxGeometry x="290" y="-600" width="150" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="hQeGzuZTRge54YIYbzUu-162" value="(COD: BDD-Fase1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="NjdkGcA6Qp470e94GDZ9-1">
+          <mxGeometry x="320" y="-620" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
