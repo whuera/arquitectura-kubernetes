@@ -1,4 +1,4 @@
-<mxfile modified="2021-07-14T03:31:32.149Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="LXaU7a56umE71HHO8G0c" version="14.7.7" type="github" pages="3">
+<mxfile modified="2021-07-14T03:33:56.686Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Nw84RJtXqPRoe7G9L7UJ" version="14.7.7" type="github" pages="3">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Enterprice-Kbns">
     <mxGraphModel dx="2355" dy="1391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -487,6 +487,12 @@
         </mxCell>
         <mxCell id="OWZEa-iOvZw_inka9LK9-2" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; color: rgb(76 , 76 , 81) ; font-family: &amp;#34;segoe ui&amp;#34; , &amp;#34;segoeui&amp;#34; , &amp;#34;segoe wp&amp;#34; , &amp;#34;tahoma&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;SaaS&lt;/b&gt;:&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; color: rgb(76 , 76 , 81) ; font-family: &amp;#34;segoe ui&amp;#34; , &amp;#34;segoeui&amp;#34; , &amp;#34;segoe wp&amp;#34; , &amp;#34;tahoma&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;&lt;font size=&quot;3&quot;&gt;El software como servicio permite a los usuarios conectarse a aplicaciones basadas en la nube a través de Internet y usarlas. Algunos ejemplos comunes son el correo electrónico, los calendarios y las herramientas ofimáticas&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="574.5" y="130" width="425.5" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="OWZEa-iOvZw_inka9LK9-3" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="-530" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OWZEa-iOvZw_inka9LK9-4" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;b style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;IaaS:&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;La infraestructura como servicio &lt;/span&gt;&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;es un método para ofrecer funcionalidades de computación, almacenamiento, redes y de otros tipos a través de Internet&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="-350" width="530" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
