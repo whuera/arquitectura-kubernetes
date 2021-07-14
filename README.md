@@ -8,6 +8,6 @@
 
 **SaaS** 
 (Software como servicio): en este modelo podemos disponer de software especifico listo para ser usado y configurado, donde el uso de estos servicios es de forma inmediata y tiene una gran facilidad de configuración personalizada hacia nuestra empresa o giro de negocio.
-![image](https://user-images.githubusercontent.com/20179546/125557852-f53ca832-c98c-4e8c-88e9-2579ec2e2d14.png)
 
-[arquitectura-kubernetes-Enterprice-Kbns.pdf](https://github.com/whuera/arquitectura-kubernetes/files/6813358/arquitectura-kubernetes-Enterprice-Kbns.pdf)
+![arquitectura-kubernetes-Enterprice-Kbns](https://user-images.githubusercontent.com/20179546/125558029-fff1c531-eaf3-4b38-b0c8-14295457d85b.png)
+
